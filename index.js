@@ -9,4 +9,4 @@ function totalwithGrat (billAmt){
 
 
 console.log(totalwithGrat(billAmount));
-console.log(totalwithGrat(95));
+console.log(totalwithGrat(95));jS G
